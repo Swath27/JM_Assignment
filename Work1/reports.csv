@@ -1,0 +1,5 @@
+
+1618570610442,647,Add,200,OK,Calci(SOAP) 1-1,text,true,No Nodes Matched for //AddResult=15,586,432,1,1,http://www.dneonline.com/calculator.asmx,631,0,328
+1618570611829,270,Sub,200,OK,Calci(SOAP) 1-1,text,true,No Nodes Matched for //SubtractResult=7,605,447,1,1,http://www.dneonline.com/calculator.asmx,270,0,0
+1618570612103,276,Multiply,200,OK,Calci(SOAP) 1-1,text,true,No Nodes Matched for //MultiplyResult=132,607,448,1,1,http://www.dneonline.com/calculator.asmx,276,0,0
+1618570612384,271,Divide,200,OK,Calci(SOAP) 1-1,text,true,No Nodes Matched for //DivideResult=50000,601,586,1,1,http://www.dneonline.com/calculator.asmx,271,0,0
